@@ -89,3 +89,6 @@ div{
     text-align: center;
     margin: 100px;
 }
+.contact a{
+    text-decoration:none;
+}
